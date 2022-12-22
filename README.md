@@ -3,7 +3,8 @@
 Hello, this is my first WEB POKEMON TYPE GAMING !
 
 Inside the Public folder, just run index.html and play with a keyboard: W, A, S, D to move the character.
-Or run in the website: https://pokemon-js1.web.app/
+
+Is possible to run in the website: https://pokemon-js1.web.app/
 
 This project is in construction.
 
