@@ -18,3 +18,5 @@ Capture Pokemons
 Interactive menu
 List of starting pokemons to choose
 ...
+
+![image](https://github.com/EduXimenes/PokemonJS/assets/53613863/6195eee8-efc3-4286-a3cf-a964e5fe5974)
